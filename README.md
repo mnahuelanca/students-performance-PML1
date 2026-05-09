@@ -34,4 +34,5 @@ El modelo demostró un desempeño sólido con los siguientes resultados:
 
 ### Visualización de Predicciones
 ![Predicciones vs Reales](https://github.com/mnahuelanca/students-performance-PML1/blob/master/grafico.png)
+
 *(Nota: El gráfico muestra una fuerte correlación lineal, validando la eficacia del modelo para este problema).*

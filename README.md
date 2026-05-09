@@ -33,5 +33,5 @@ El modelo demostró un desempeño sólido con los siguientes resultados:
 * **R² Score**: **0.88** (El modelo explica el 88% de la variabilidad de las notas).
 
 ### Visualización de Predicciones
-![Predicciones vs Reales](https://github.com/mnahuelanca/students-performance-PML1/blob/main/grafico.png?raw=true)
+![Predicciones vs Reales](https://github.com/mnahuelanca/students-performance-PML1/blob/master/grafico.png)
 *(Nota: El gráfico muestra una fuerte correlación lineal, validando la eficacia del modelo para este problema).*
